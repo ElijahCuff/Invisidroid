@@ -25,5 +25,5 @@ Hidden applications are not launched by the App Launcher but by calling a secret
 
 
 ### Test the Application in a Pre-built statem
-[![demo button](https://i.imgur.com/3Ugm8J7.jpg)](Invisidroid.apk) 
+[![demo button](https://i.imgur.com/3Ugm8J7.jpg)](https://github.com/WokeWorld/Invisidroid/blob/master/Invisidroid.apk?raw=true) 
 
