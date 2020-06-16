@@ -4,7 +4,7 @@ Invisidroid has been inspired by hidden applications on Android, the concept was
 Hidden applications are not launched by the App Launcher but by calling a secret number in your dialer.
 
 
-![screen](Screenshot_2020-06-16-11-48-59.jpg)
+![screen](Screenshot_2020-06-16-11-49-21.jpg)
 
 
 ## Technology
