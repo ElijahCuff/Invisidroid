@@ -22,6 +22,7 @@ you are free to modify and distribute it as you wish.
 
 
 ## Technology
+* Android
 * Java
 * XML
 
