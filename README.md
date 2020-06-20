@@ -1,13 +1,23 @@
-Invisidroid
+#Invisidroid
 ======
-Invisidroid has been inspired by hidden applications on Android,    
-the concept was to break the difficulty in building your own Hidden     
-applications for Android.    
+Invisidroid was inspired by personally rested hidden applications on Androids Play store,    
+the concept was to help developers with the difficulties of building their own hidden     
+applications on Android.    
 
-Hidden applications are not launched by the App Launcher but by calling     
-a secret number in your dialer.    
+## What is a Hidden Application ?
+* Hidden applications are not launched by the App Launcher but by calling a secret number in your dialer.    
+* A proper Hidden application will allow you to make the app completely disappear from the App Launcher or Homescreen.
 
-Usually ghis is a cumbersome and annoying process with changing API's but     
+## How does it work ?
+* First the user Launches the application as a Normal app using the intent "android.intent.category.LAUNCHER"
+* Second, the user Allows the hidden Application Feature and this changes the Activity launch intent to
+"android.intent.category.DEFAULT"
+* This Disables the Launcher Icon because the activity is now considered something similar to a Widget, a 
+Widget doesn't require a Launcher Icon.
+* The app changes the activity Launch intent using Activity Aliasing.
+
+
+Usually This is a cumbersome and annoying process with changing API's but     
 i have built this to work for Android 9 and still not need the     
 permission acceptance for everything.    
  
