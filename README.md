@@ -22,7 +22,7 @@ permission acceptance for everything.
  
 This application is specifically for Security Research development and     
 education, however considering i have released it under MIT license terms     
-you are free to modify and distribute it as you wish.    
+you are free to modify and distribute it for educational purposes.    
     
 - Kind Regards, Elijah C.   
 
