@@ -1,6 +1,6 @@
-#Invisidroid
+# Invisidroid
 ======
-Invisidroid was inspired by personally rested hidden applications on Androids Play store,    
+Invisidroid was inspired by personally tested hidden applications on Androids Play store,    
 the concept was to help developers with the difficulties of building their own hidden     
 applications on Android.    
 
