@@ -24,7 +24,7 @@ This application is specifically for Security Research development and
 education, however considering i have released it under MIT license terms     
 you are free to modify and distribute it for educational purposes.    
     
-- Kind Regards, Elijah C.   
+- Kind Regards, Woke.   
 
 
 ![screen](IMG_20200616_120406.jpg)
